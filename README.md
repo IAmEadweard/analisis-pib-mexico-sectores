@@ -5,7 +5,7 @@
   </h1>
 
   <p style="color: #34495e;">
-    Este proyecto consiste en un <strong>análisis exploratorio de datos (EDA)</strong> del Producto Interno Bruto de México desagregado por <strong>20 sectores económicos</strong> (clasificación SCIAN), con series de 1994 a 2026. El objetivo fue identificar los sectores de mayor peso en la economía mexicana y visualizar su evolución a lo largo de 32 años, utilizando <strong>Python</strong> con las librerías <strong>pandas</strong> y <strong>matplotlib</strong>.
+    Este proyecto consiste en un <strong>análisis exploratorio de datos (EDA)</strong> del Producto Interno Bruto de México desagregado por <strong>20 sectores económicos</strong> (clasificación SCIAN), con series de 1994 a 2026. El objetivo fue identificar los sectores de mayor peso en la economía mexicana y visualizar su evolución a lo largo de 33 años, utilizando <strong>Python</strong> con las librerías <strong>pandas</strong> y <strong>matplotlib</strong>.
   </p>
 
   <hr style="border-top: 1px solid #ccc;">
