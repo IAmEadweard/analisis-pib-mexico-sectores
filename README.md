@@ -49,9 +49,6 @@
   <p style="color: #34495e;">
     El análisis confirma que la economía mexicana tiene un claro motor en la <strong>industria manufacturera</strong>, cuyo peso se ha mantenido y ampliado durante tres décadas, mientras que los servicios —inmobiliarios, comercio y transportes— forman una base estable y creciente. La crisis de 2020 afectó a todos los sectores por igual, pero la recuperación posterior fue generalizada, lo que refleja la resiliencia estructural de la economía.
   </p>
-  <p style="color: #34495e;">
-    Este proyecto demuestra habilidades en <strong>manipulación de datos con pandas</strong>, <strong>visualización de series temporales</strong> y <strong>interpretación de resultados económicos</strong>, competencias fundamentales para un analista de datos.
-  </p>
 
   <hr style="border-top: 1px solid #ccc;">
 
