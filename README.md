@@ -83,7 +83,7 @@
 
   <h2 style="color: #16a085;">👤 Autor</h2>
   <p style="color: #34495e;">
-    [Tu nombre] – <a href="https://www.linkedin.com/" style="color: #2980b9;">LinkedIn</a> – tu-email@ejemplo.com
+    [Eduardo Fabian Vidaca Araujo] – <a href="https://www.linkedin.com/in/eduardo-fabian-vidaca-araujo-it-engineer//" style="color: #2980b9;">LinkedIn</a> – eduardovidaca2022@gmail.com
   </p>
 
 </div>
