@@ -1,0 +1,661 @@
+Year,Sector ID,Sector,GDP
+1994,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",20386.77771
+1994,21,Minería,24637.99506
+1994,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",5944.975997
+1994,23,Construcción,29518.37905
+1994,31-33,Industrias manufactureras,92067.29519
+1994,43,Comercio al por mayor,34666.77081
+1994,46,Comercio al por menor,38620.49002
+1994,48-49,"Transportes, correos y almacenamiento",25154.32224
+1994,51,Información en medios masivos,7280.755779
+1994,52,Servicios financieros y de seguros,17064.28757
+1994,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,54113.52645
+1994,54,"Servicios profesionales, científicos y técnicos",6131.031566
+1994,55,Dirección y administración de grupos empresariales o corporativos,2174.006667
+1994,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",16262.73592
+1994,61,Servicios educativos,15455.86202
+1994,62,Servicios de salud y de asistencia social,8577.238177
+1994,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",3479.000322
+1994,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,17187.69584
+1994,81,Otros servicios excepto actividades gubernamentales,13306.99301
+1994,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",14613.57719
+1995,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",25207.67078
+1995,21,Minería,36410.74592
+1995,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",8441.822387
+1995,23,Construcción,29139.35721
+1995,31-33,Industrias manufactureras,129166.2039
+1995,43,Comercio al por mayor,50935.97692
+1995,46,Comercio al por menor,54858.7906
+1995,48-49,"Transportes, correos y almacenamiento",34541.42978
+1995,51,Información en medios masivos,8314.191855
+1995,52,Servicios financieros y de seguros,20757.15494
+1995,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,72936.17132
+1995,54,"Servicios profesionales, científicos y técnicos",7800.193357
+1995,55,Dirección y administración de grupos empresariales o corporativos,2903.592849
+1995,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",21138.79293
+1995,61,Servicios educativos,18685.66596
+1995,62,Servicios de salud y de asistencia social,10522.02171
+1995,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",3822.430187
+1995,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,18662.95768
+1995,81,Otros servicios excepto actividades gubernamentales,15527.01587
+1995,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",17227.32232
+1996,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",37617.47141
+1996,21,Minería,46559.65192
+1996,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",11885.45345
+1996,23,Construcción,41169.49632
+1996,31-33,Industrias manufactureras,182396.1019
+1996,43,Comercio al por mayor,72403.43107
+1996,46,Comercio al por menor,77211.05228
+1996,48-49,"Transportes, correos y almacenamiento",48871.588
+1996,51,Información en medios masivos,10795.90456
+1996,52,Servicios financieros y de seguros,17834.5649
+1996,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,93728.87386
+1996,54,"Servicios profesionales, científicos y técnicos",10987.4206
+1996,55,Dirección y administración de grupos empresariales o corporativos,3786.696229
+1996,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",28946.691
+1996,61,Servicios educativos,23833.20119
+1996,62,Servicios de salud y de asistencia social,12732.85724
+1996,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",4573.460938
+1996,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,23818.02417
+1996,81,Otros servicios excepto actividades gubernamentales,19197.49435
+1996,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",22379.23706
+1997,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",43722.81335
+1997,21,Minería,60953.95003
+1997,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",14794.36377
+1997,23,Construcción,52887.54696
+1997,31-33,Industrias manufactureras,231742.1471
+1997,43,Comercio al por mayor,92869.20469
+1997,46,Comercio al por menor,92674.8481
+1997,48-49,"Transportes, correos y almacenamiento",64453.21651
+1997,51,Información en medios masivos,12794.37502
+1997,52,Servicios financieros y de seguros,17931.07673
+1997,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,114269.0987
+1997,54,"Servicios profesionales, científicos y técnicos",14813.00607
+1997,55,Dirección y administración de grupos empresariales o corporativos,5187.810668
+1997,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",36769.62827
+1997,61,Servicios educativos,30450.12035
+1997,62,Servicios de salud y de asistencia social,15640.56773
+1997,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",6026.56762
+1997,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,30997.89892
+1997,81,Otros servicios excepto actividades gubernamentales,23981.51799
+1997,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",29516.61514
+1998,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",49758.61584
+1998,21,Minería,65495.27287
+1998,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",17523.92513
+1998,23,Construcción,68936.46213
+1998,31-33,Industrias manufactureras,282988.0274
+1998,43,Comercio al por mayor,112592.3097
+1998,46,Comercio al por menor,116347.8734
+1998,48-49,"Transportes, correos y almacenamiento",80676.18426
+1998,51,Información en medios masivos,17062.0771
+1998,52,Servicios financieros y de seguros,21787.95166
+1998,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,141166.4979
+1998,54,"Servicios profesionales, científicos y técnicos",19595.63898
+1998,55,Dirección y administración de grupos empresariales o corporativos,5507.595003
+1998,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",44719.44595
+1998,61,Servicios educativos,38743.58598
+1998,62,Servicios de salud y de asistencia social,20615.56225
+1998,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",7094.349381
+1998,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,38937.47851
+1998,81,Otros servicios excepto actividades gubernamentales,28554.94051
+1998,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",35727.15781
+1999,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",52660.51614
+1999,21,Minería,88524.02539
+1999,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",23520.68373
+1999,23,Construcción,83926.21017
+1999,31-33,Industrias manufactureras,320752.0003
+1999,43,Comercio al por mayor,129198.041
+1999,46,Comercio al por menor,133685.79
+1999,48-49,"Transportes, correos y almacenamiento",97467.60497
+1999,51,Información en medios masivos,21946.70031
+1999,52,Servicios financieros y de seguros,27868.33285
+1999,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,160934.0673
+1999,54,"Servicios profesionales, científicos y técnicos",25648.47382
+1999,55,Dirección y administración de grupos empresariales o corporativos,6099.779378
+1999,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",54225.09835
+1999,61,Servicios educativos,47865.6939
+1999,62,Servicios de salud y de asistencia social,26552.4817
+1999,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",8371.391925
+1999,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,47174.47753
+1999,81,Otros servicios excepto actividades gubernamentales,34068.8311
+1999,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",44400.26032
+2000,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",55420.47933
+2000,21,Minería,106419.0943
+2000,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",25806.30449
+2000,23,Construcción,101835.0278
+2000,31-33,Industrias manufactureras,369163.5042
+2000,43,Comercio al por mayor,149673.382
+2000,46,Comercio al por menor,159220.6582
+2000,48-49,"Transportes, correos y almacenamiento",116143.324
+2000,51,Información en medios masivos,26605.99603
+2000,52,Servicios financieros y de seguros,28444.95215
+2000,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,183600.0975
+2000,54,"Servicios profesionales, científicos y técnicos",32299.30215
+2000,55,Dirección y administración de grupos empresariales o corporativos,6929.618297
+2000,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",64101.21045
+2000,61,Servicios educativos,56820.83085
+2000,62,Servicios de salud y de asistencia social,31471.66718
+2000,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",9616.572176
+2000,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,57197.32954
+2000,81,Otros servicios excepto actividades gubernamentales,39287.86058
+2000,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",56471.2651
+2001,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",59973.72716
+2001,21,Minería,113177.6889
+2001,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",28487.35616
+2001,23,Construcción,105299.079
+2001,31-33,Industrias manufactureras,372345.1736
+2001,43,Comercio al por mayor,148437.3254
+2001,46,Comercio al por menor,162093.1859
+2001,48-49,"Transportes, correos y almacenamiento",122406.7289
+2001,51,Información en medios masivos,30921.64628
+2001,52,Servicios financieros y de seguros,38468.23217
+2001,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,198411.6412
+2001,54,"Servicios profesionales, científicos y técnicos",37394.80997
+2001,55,Dirección y administración de grupos empresariales o corporativos,6965.428025
+2001,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",66853.11165
+2001,61,Servicios educativos,65813.68866
+2001,62,Servicios de salud y de asistencia social,37304.63595
+2001,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",10123.35071
+2001,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,62923.72843
+2001,81,Otros servicios excepto actividades gubernamentales,42605.78288
+2001,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",61528.96983
+2002,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",60869.08135
+2002,21,Minería,122533.1499
+2002,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",32561.64157
+2002,23,Construcción,111711.1433
+2002,31-33,Industrias manufactureras,376348.625
+2002,43,Comercio al por mayor,151383.0472
+2002,46,Comercio al por menor,169957.5238
+2002,48-49,"Transportes, correos y almacenamiento",125177.6064
+2002,51,Información en medios masivos,33354.62846
+2002,52,Servicios financieros y de seguros,40714.0754
+2002,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,211340.6641
+2002,54,"Servicios profesionales, científicos y técnicos",40868.719
+2002,55,Dirección y administración de grupos empresariales o corporativos,7434.960405
+2002,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",70925.93152
+2002,61,Servicios educativos,73078.15752
+2002,62,Servicios de salud y de asistencia social,41049.17002
+2002,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",11175.36789
+2002,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,64609.57806
+2002,81,Otros servicios excepto actividades gubernamentales,45240.80166
+2002,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",70751.03202
+2003,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",66231.22329
+2003,21,Minería,101636.0519
+2003,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",37075.63895
+2003,23,Construcción,122968.3537
+2003,31-33,Industrias manufactureras,388783.2836
+2003,43,Comercio al por mayor,163799.4007
+2003,46,Comercio al por menor,178836.9631
+2003,48-49,"Transportes, correos y almacenamiento",129611.4965
+2003,51,Información en medios masivos,36385.17612
+2003,52,Servicios financieros y de seguros,46861.40756
+2003,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,231801.5226
+2003,54,"Servicios profesionales, científicos y técnicos",47310.9643
+2003,55,Dirección y administración de grupos empresariales o corporativos,9245.606849
+2003,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",75772.1504
+2003,61,Servicios educativos,81914.26196
+2003,62,Servicios de salud y de asistencia social,45322.46147
+2003,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",11998.6192
+2003,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,66500.13792
+2003,81,Otros servicios excepto actividades gubernamentales,47891.17378
+2003,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",76700.07813
+2004,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",73665.87783
+2004,21,Minería,142251.8202
+2004,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",40738.77237
+2004,23,Construcción,144438.9942
+2004,31-33,Industrias manufactureras,435738.5023
+2004,43,Comercio al por mayor,185238.996
+2004,46,Comercio al por menor,202813.5302
+2004,48-49,"Transportes, correos y almacenamiento",144143.4943
+2004,51,Información en medios masivos,43073.22027
+2004,52,Servicios financieros y de seguros,54093.59746
+2004,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,251577.5387
+2004,54,"Servicios profesionales, científicos y técnicos",52242.51841
+2004,55,Dirección y administración de grupos empresariales o corporativos,10716.12184
+2004,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",82493.32191
+2004,61,Servicios educativos,86787.51955
+2004,62,Servicios de salud y de asistencia social,48327.42585
+2004,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",12739.17424
+2004,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,70781.29169
+2004,81,Otros servicios excepto actividades gubernamentales,51301.48856
+2004,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",81433.61001
+2005,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",73639.68701
+2005,21,Minería,175499.3284
+2005,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",43673.45953
+2005,23,Construcción,155227.6994
+2005,31-33,Industrias manufactureras,451914.4963
+2005,43,Comercio al por mayor,198896.7364
+2005,46,Comercio al por menor,220276.8543
+2005,48-49,"Transportes, correos y almacenamiento",158420.3505
+2005,51,Información en medios masivos,50192.62653
+2005,52,Servicios financieros y de seguros,70279.08546
+2005,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,267965.9626
+2005,54,"Servicios profesionales, científicos y técnicos",56675.52696
+2005,55,Dirección y administración de grupos empresariales o corporativos,11780.8515
+2005,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",90143.43292
+2005,61,Servicios educativos,95383.139
+2005,62,Servicios de salud y de asistencia social,50621.37806
+2005,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",13370.96223
+2005,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,74496.60903
+2005,81,Otros servicios excepto actividades gubernamentales,55134.90302
+2005,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",87454.28994
+2006,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",81818.50554
+2006,21,Minería,200842.5108
+2006,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",47247.93228
+2006,23,Construcción,179676.5433
+2006,31-33,Industrias manufactureras,528188.2582
+2006,43,Comercio al por mayor,220728.3159
+2006,46,Comercio al por menor,237604.4011
+2006,48-49,"Transportes, correos y almacenamiento",176731.6062
+2006,51,Información en medios masivos,58360.78567
+2006,52,Servicios financieros y de seguros,76038.01185
+2006,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,293296.9601
+2006,54,"Servicios profesionales, científicos y técnicos",60450.58847
+2006,55,Dirección y administración de grupos empresariales o corporativos,13947.88621
+2006,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",97698.16452
+2006,61,Servicios educativos,103962.6057
+2006,62,Servicios de salud y de asistencia social,54696.76555
+2006,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",14977.7065
+2006,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,77807.69152
+2006,81,Otros servicios excepto actividades gubernamentales,59965.70644
+2006,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",95871.44821
+2007,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",91615.41865
+2007,21,Minería,227919.9446
+2007,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",51425.58476
+2007,23,Construcción,195372.8961
+2007,31-33,Industrias manufactureras,550011.6845
+2007,43,Comercio al por mayor,240471.1071
+2007,46,Comercio al por menor,257920.8504
+2007,48-49,"Transportes, correos y almacenamiento",189403.322
+2007,51,Información en medios masivos,69512.05223
+2007,52,Servicios financieros y de seguros,89550.66419
+2007,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,314709.4305
+2007,54,"Servicios profesionales, científicos y técnicos",65188.64982
+2007,55,Dirección y administración de grupos empresariales o corporativos,14273.1707
+2007,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",104972.8225
+2007,61,Servicios educativos,112431.5675
+2007,62,Servicios de salud y de asistencia social,59203.22911
+2007,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",16548.95501
+2007,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,82227.073
+2007,81,Otros servicios excepto actividades gubernamentales,64847.12297
+2007,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",104822.6481
+2008,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",97890.11945
+2008,21,Minería,263180.0865
+2008,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",57451.26218
+2008,23,Construcción,218249.8998
+2008,31-33,Industrias manufactureras,587408.9055
+2008,43,Comercio al por mayor,264277.8606
+2008,46,Comercio al por menor,279574.3752
+2008,48-49,"Transportes, correos y almacenamiento",198918.4619
+2008,51,Información en medios masivos,73986.87978
+2008,52,Servicios financieros y de seguros,97882.93916
+2008,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,341401.5153
+2008,54,"Servicios profesionales, científicos y técnicos",70259.22877
+2008,55,Dirección y administración de grupos empresariales o corporativos,16975.73682
+2008,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",113105.07
+2008,61,Servicios educativos,122470.7333
+2008,62,Servicios de salud y de asistencia social,65939.94773
+2008,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",17341.15907
+2008,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,83538.30934
+2008,81,Otros servicios excepto actividades gubernamentales,68673.04982
+2008,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",114569.5961
+2009,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",98825.87178
+2009,21,Minería,195643.7376
+2009,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",60197.94412
+2009,23,Construcción,208418.9927
+2009,31-33,Industrias manufactureras,555647.5383
+2009,43,Comercio al por mayor,256308.1328
+2009,46,Comercio al por menor,264338.7912
+2009,48-49,"Transportes, correos y almacenamiento",195912.4327
+2009,51,Información en medios masivos,77829.64276
+2009,52,Servicios financieros y de seguros,103104.1801
+2009,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,352206.7633
+2009,54,"Servicios profesionales, científicos y técnicos",69544.35179
+2009,55,Dirección y administración de grupos empresariales o corporativos,16110.56153
+2009,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",112447.9457
+2009,61,Servicios educativos,129347.9371
+2009,62,Servicios de salud y de asistencia social,70174.76738
+2009,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",17672.36486
+2009,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,78434.09902
+2009,81,Otros servicios excepto actividades gubernamentales,71048.93685
+2009,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",128065.7431
+2010,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",107977.2379
+2010,21,Minería,239082.4737
+2010,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",58314.01877
+2010,23,Construcción,215987.5326
+2010,31-33,Industrias manufactureras,622925.1518
+2010,43,Comercio al por mayor,287481.9101
+2010,46,Comercio al por menor,299778.9788
+2010,48-49,"Transportes, correos y almacenamiento",226646.1619
+2010,51,Información en medios masivos,81455.12909
+2010,52,Servicios financieros y de seguros,109767.6692
+2010,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,373607.302
+2010,54,"Servicios profesionales, científicos y técnicos",70549.81833
+2010,55,Dirección y administración de grupos empresariales o corporativos,17064.70075
+2010,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",115803.0414
+2010,61,Servicios educativos,137021.4411
+2010,62,Servicios de salud y de asistencia social,75820.90602
+2010,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",19260.78951
+2010,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,83067.16839
+2010,81,Otros servicios excepto actividades gubernamentales,74888.90201
+2010,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",139757.4325
+2011,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",113587.6911
+2011,21,Minería,319061.9815
+2011,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",56174.41836
+2011,23,Construcción,239436.714
+2011,31-33,Industrias manufactureras,676413.4329
+2011,43,Comercio al por mayor,324023.2354
+2011,46,Comercio al por menor,337240.5624
+2011,48-49,"Transportes, correos y almacenamiento",245546.3337
+2011,51,Información en medios masivos,80021.58537
+2011,52,Servicios financieros y de seguros,114667.8535
+2011,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,395535.685
+2011,54,"Servicios profesionales, científicos y técnicos",76166.62837
+2011,55,Dirección y administración de grupos empresariales o corporativos,18235.53441
+2011,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",126346.7597
+2011,61,Servicios educativos,146656.8851
+2011,62,Servicios de salud y de asistencia social,83853.05911
+2011,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",19901.42909
+2011,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,88676.45009
+2011,81,Otros servicios excepto actividades gubernamentales,78514.33377
+2011,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",150595.337
+2012,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",125985.5921
+2012,21,Minería,322153.2633
+2012,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",53791.89291
+2012,23,Construcción,256146.4733
+2012,31-33,Industrias manufactureras,776879.4095
+2012,43,Comercio al por mayor,362148.5106
+2012,46,Comercio al por menor,370361.764
+2012,48-49,"Transportes, correos y almacenamiento",269395.1909
+2012,51,Información en medios masivos,81677.96389
+2012,52,Servicios financieros y de seguros,121633.7543
+2012,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,414152.6014
+2012,54,"Servicios profesionales, científicos y técnicos",80886.00964
+2012,55,Dirección y administración de grupos empresariales o corporativos,20892.94601
+2012,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",138585.737
+2012,61,Servicios educativos,161086.1499
+2012,62,Servicios de salud y de asistencia social,90135.43158
+2012,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",21032.65389
+2012,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,96626.06104
+2012,81,Otros servicios excepto actividades gubernamentales,83906.55779
+2012,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",164299.531
+2013,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",128196.4787
+2013,21,Minería,287580.0974
+2013,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",58792.9519
+2013,23,Construcción,249794.2954
+2013,31-33,Industrias manufactureras,767292.0068
+2013,43,Comercio al por mayor,365800.4208
+2013,46,Comercio al por menor,381510.0785
+2013,48-49,"Transportes, correos y almacenamiento",284880.6453
+2013,51,Información en medios masivos,84308.72946
+2013,52,Servicios financieros y de seguros,142138.5792
+2013,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,431918.7664
+2013,54,"Servicios profesionales, científicos y técnicos",83352.49956
+2013,55,Dirección y administración de grupos empresariales o corporativos,20834.02363
+2013,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",146839.2102
+2013,61,Servicios educativos,169663.5197
+2013,62,Servicios de salud y de asistencia social,97563.72176
+2013,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",22401.801
+2013,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,100966.1529
+2013,81,Otros servicios excepto actividades gubernamentales,88483.05933
+2013,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",167681.3808
+2014,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",137265.4999
+2014,21,Minería,286040.8583
+2014,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",70611.91028
+2014,23,Construcción,264056.21
+2014,31-33,Industrias manufactureras,826581.3493
+2014,43,Comercio al por mayor,385917.4816
+2014,46,Comercio al por menor,398907.5895
+2014,48-49,"Transportes, correos y almacenamiento",304426.9286
+2014,51,Información en medios masivos,86013.40257
+2014,52,Servicios financieros y de seguros,149813.7213
+2014,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,454104.3675
+2014,54,"Servicios profesionales, científicos y técnicos",86849.2689
+2014,55,Dirección y administración de grupos empresariales o corporativos,23524.04561
+2014,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",151942.9515
+2014,61,Servicios educativos,180848.6089
+2014,62,Servicios de salud y de asistencia social,102426.0694
+2014,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",22607.79434
+2014,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,106689.0903
+2014,81,Otros servicios excepto actividades gubernamentales,92000.65981
+2014,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",178160.2541
+2015,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",148312.4857
+2015,21,Minería,179017.8236
+2015,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",69137.77665
+2015,23,Construcción,281434.5841
+2015,31-33,Industrias manufactureras,952951.7886
+2015,43,Comercio al por mayor,431597.4688
+2015,46,Comercio al por menor,426599.2337
+2015,48-49,"Transportes, correos y almacenamiento",324735.8244
+2015,51,Información en medios masivos,85886.63387
+2015,52,Servicios financieros y de seguros,155106.0413
+2015,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,474133.057
+2015,54,"Servicios profesionales, científicos y técnicos",93524.86403
+2015,55,Dirección y administración de grupos empresariales o corporativos,25264.88894
+2015,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",158632.5291
+2015,61,Servicios educativos,193744.1602
+2015,62,Servicios de salud y de asistencia social,110168.302
+2015,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",24078.41554
+2015,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,120436.6919
+2015,81,Otros servicios excepto actividades gubernamentales,98265.17209
+2015,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",186490.4941
+2016,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",168476.8732
+2016,21,Minería,179875.6399
+2016,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",71785.8672
+2016,23,Construcción,306134.5401
+2016,31-33,Industrias manufactureras,1031136.836
+2016,43,Comercio al por mayor,481309.7393
+2016,46,Comercio al por menor,471747.7932
+2016,48-49,"Transportes, correos y almacenamiento",344858.0483
+2016,51,Información en medios masivos,82209.17244
+2016,52,Servicios financieros y de seguros,181835.0417
+2016,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,493635.8679
+2016,54,"Servicios profesionales, científicos y técnicos",101107.778
+2016,55,Dirección y administración de grupos empresariales o corporativos,26114.13885
+2016,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",167211.666
+2016,61,Servicios educativos,200816.7157
+2016,62,Servicios de salud y de asistencia social,116237.2311
+2016,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",25622.00059
+2016,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,128774.4
+2016,81,Otros servicios excepto actividades gubernamentales,104061.1163
+2016,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",192213.2125
+2017,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",185787.0237
+2017,21,Minería,221883.4236
+2017,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",105654.3039
+2017,23,Construcción,337128.3268
+2017,31-33,Industrias manufactureras,1135935.813
+2017,43,Comercio al por mayor,523400.633
+2017,46,Comercio al por menor,517099.9096
+2017,48-49,"Transportes, correos y almacenamiento",376773.5494
+2017,51,Información en medios masivos,87486.63679
+2017,52,Servicios financieros y de seguros,203992.3597
+2017,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,511033.0365
+2017,54,"Servicios profesionales, científicos y técnicos",103569.0554
+2017,55,Dirección y administración de grupos empresariales o corporativos,28294.87652
+2017,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",185291.4136
+2017,61,Servicios educativos,208589.4339
+2017,62,Servicios de salud y de asistencia social,126028.7922
+2017,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",26985.40986
+2017,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,137657.0374
+2017,81,Otros servicios excepto actividades gubernamentales,108514.4377
+2017,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",199999.5812
+2018,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",199276.4537
+2018,21,Minería,237084.4761
+2018,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",114229.3178
+2018,23,Construcción,365201.1283
+2018,31-33,Industrias manufactureras,1220286.374
+2018,43,Comercio al por mayor,567069.983
+2018,46,Comercio al por menor,560365.7516
+2018,48-49,"Transportes, correos y almacenamiento",413431.783
+2018,51,Información en medios masivos,92817.08281
+2018,52,Servicios financieros y de seguros,221668.1447
+2018,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,530168.2368
+2018,54,"Servicios profesionales, científicos y técnicos",108921.6401
+2018,55,Dirección y administración de grupos empresariales o corporativos,31725.2966
+2018,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",198381.9091
+2018,61,Servicios educativos,219483.3014
+2018,62,Servicios de salud y de asistencia social,136922.1123
+2018,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",28883.09225
+2018,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,145995.7848
+2018,81,Otros servicios excepto actividades gubernamentales,112715.2112
+2018,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",213846.068
+2019,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",208200.7195
+2019,21,Minería,260451.8858
+2019,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",128986.2648
+2019,23,Construcción,361118.9653
+2019,31-33,Industrias manufactureras,1249047.29
+2019,43,Comercio al por mayor,570984.4558
+2019,46,Comercio al por menor,571369.7625
+2019,48-49,"Transportes, correos y almacenamiento",431865.0731
+2019,51,Información en medios masivos,95078.15251
+2019,52,Servicios financieros y de seguros,234071.0831
+2019,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,556568.5059
+2019,54,"Servicios profesionales, científicos y técnicos",113279.7817
+2019,55,Dirección y administración de grupos empresariales o corporativos,32390.22215
+2019,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",209860.9695
+2019,61,Servicios educativos,230512.2422
+2019,62,Servicios de salud y de asistencia social,146734.8616
+2019,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",29490.26307
+2019,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,155220.629
+2019,81,Otros servicios excepto actividades gubernamentales,119609.089
+2019,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",218237.0462
+2020,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",223476.7188
+2020,21,Minería,223628.8474
+2020,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",117132.4212
+2020,23,Construcción,310520.1457
+2020,31-33,Industrias manufactureras,1215438.558
+2020,43,Comercio al por mayor,551412.5899
+2020,46,Comercio al por menor,550654.7354
+2020,48-49,"Transportes, correos y almacenamiento",368993.8605
+2020,51,Información en medios masivos,86281.04286
+2020,52,Servicios financieros y de seguros,233768.689
+2020,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,569586.2368
+2020,54,"Servicios profesionales, científicos y técnicos",115429.0511
+2020,55,Dirección y administración de grupos empresariales o corporativos,36177.02439
+2020,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",206107.8857
+2020,61,Servicios educativos,230809.5166
+2020,62,Servicios de salud y de asistencia social,160354.2324
+2020,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",17877.20855
+2020,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,97863.59766
+2020,81,Otros servicios excepto actividades gubernamentales,109570.6972
+2020,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",229323.1651
+2021,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",252402.8365
+2021,21,Minería,251456.6353
+2021,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",105894.4682
+2021,23,Construcción,385556.4968
+2021,31-33,Industrias manufactureras,1390282.784
+2021,43,Comercio al por mayor,630007.3455
+2021,46,Comercio al por menor,633187.8952
+2021,48-49,"Transportes, correos y almacenamiento",439219.9997
+2021,51,Información en medios masivos,93743.77101
+2021,52,Servicios financieros y de seguros,234234.902
+2021,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,603513.2428
+2021,54,"Servicios profesionales, científicos y técnicos",123016.2262
+2021,55,Dirección y administración de grupos empresariales o corporativos,41769.53248
+2021,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",163973.2882
+2021,61,Servicios educativos,240025.5048
+2021,62,Servicios de salud y de asistencia social,175569.1145
+2021,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",23486.54784
+2021,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,129298.0724
+2021,81,Otros servicios excepto actividades gubernamentales,121990.5449
+2021,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",238821.1273
+2022,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",287735.5278
+2022,21,Minería,259266.8211
+2022,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",150661.207
+2022,23,Construcción,452041.0114
+2022,31-33,Industrias manufactureras,1586007.036
+2022,43,Comercio al por mayor,723652.5805
+2022,46,Comercio al por menor,721131.317
+2022,48-49,"Transportes, correos y almacenamiento",525236.6843
+2022,51,Información en medios masivos,105005.793
+2022,52,Servicios financieros y de seguros,290953.3459
+2022,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,641059.4141
+2022,54,"Servicios profesionales, científicos y técnicos",136531.3591
+2022,55,Dirección y administración de grupos empresariales o corporativos,45299.88279
+2022,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",67429.05337
+2022,61,Servicios educativos,255791.3347
+2022,62,Servicios de salud y de asistencia social,183892.9313
+2022,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",33900.60334
+2022,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,171032.9423
+2022,81,Otros servicios excepto actividades gubernamentales,138028.0285
+2022,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",251952.9893
+2023,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",306409.9116
+2023,21,Minería,265590.9634
+2023,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",170747.4362
+2023,23,Construcción,521990.5075
+2023,31-33,Industrias manufactureras,1630382.277
+2023,43,Comercio al por mayor,733188.3559
+2023,46,Comercio al por menor,745183.2639
+2023,48-49,"Transportes, correos y almacenamiento",575689.218
+2023,51,Información en medios masivos,111649.6761
+2023,52,Servicios financieros y de seguros,351573.4194
+2023,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,680502.0793
+2023,54,"Servicios profesionales, científicos y técnicos",150282.9844
+2023,55,Dirección y administración de grupos empresariales o corporativos,44819.64219
+2023,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",67278.48783
+2023,61,Servicios educativos,280434.0773
+2023,62,Servicios de salud y de asistencia social,196664.7321
+2023,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",37589.92422
+2023,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,191404.987
+2023,81,Otros servicios excepto actividades gubernamentales,156135.6983
+2023,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",271792.901
+2024,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",325087.5335
+2024,21,Minería,239171.4265
+2024,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",117836.9177
+2024,23,Construcción,554826.5473
+2024,31-33,Industrias manufactureras,1688102.935
+2024,43,Comercio al por mayor,772740.3314
+2024,46,Comercio al por menor,801702.6343
+2024,48-49,"Transportes, correos y almacenamiento",639153.6986
+2024,51,Información en medios masivos,116998.776
+2024,52,Servicios financieros y de seguros,363004.1357
+2024,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,714823.8407
+2024,54,"Servicios profesionales, científicos y técnicos",182067.9258
+2024,55,Dirección y administración de grupos empresariales o corporativos,51330.00199
+2024,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",67748.30056
+2024,61,Servicios educativos,295603.6329
+2024,62,Servicios de salud y de asistencia social,209403.4218
+2024,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",41156.67573
+2024,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,203337.3189
+2024,81,Otros servicios excepto actividades gubernamentales,174035.1987
+2024,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",293665.356
+2025,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",336972.7474
+2025,21,Minería,241413.4106
+2025,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",122604.3522
+2025,23,Construcción,570957.1396
+2025,31-33,Industrias manufactureras,1764428.675
+2025,43,Comercio al por mayor,764043.1421
+2025,46,Comercio al por menor,868893.1378
+2025,48-49,"Transportes, correos y almacenamiento",675833.5076
+2025,51,Información en medios masivos,120244.7793
+2025,52,Servicios financieros y de seguros,385049.1474
+2025,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,751363.2511
+2025,54,"Servicios profesionales, científicos y técnicos",205841.717
+2025,55,Dirección y administración de grupos empresariales o corporativos,53828.07541
+2025,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",78747.12302
+2025,61,Servicios educativos,317171.0349
+2025,62,Servicios de salud y de asistencia social,228407.8213
+2025,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",48503.52205
+2025,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,216113.9976
+2025,81,Otros servicios excepto actividades gubernamentales,181164.6425
+2025,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",307464.3873
+2026,11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",307579.7236
+2026,21,Minería,280597.0932
+2026,22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",110557.4084
+2026,23,Construcción,557531.5071
+2026,31-33,Industrias manufactureras,1726697.581
+2026,43,Comercio al por mayor,783881.3928
+2026,46,Comercio al por menor,855108.3093
+2026,48-49,"Transportes, correos y almacenamiento",667261.8361
+2026,51,Información en medios masivos,115659.0188
+2026,52,Servicios financieros y de seguros,401781.7104
+2026,53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,767998.4049
+2026,54,"Servicios profesionales, científicos y técnicos",191845.6696
+2026,55,Dirección y administración de grupos empresariales o corporativos,53454.93806
+2026,56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",73580.25675
+2026,61,Servicios educativos,325540.1649
+2026,62,Servicios de salud y de asistencia social,236119.218
+2026,71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",39136.2811
+2026,72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,219835.838
+2026,81,Otros servicios excepto actividades gubernamentales,186663.5545
+2026,93,"Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",325305.9917
