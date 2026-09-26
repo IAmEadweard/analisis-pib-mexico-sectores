@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Análisis del PIB de México por Sector Económico (1994–2026)</title>
-<style>
-  body { font-family: Arial, sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; }
-  .card {
-    max-width: 900px; margin: auto; padding: 20px;
-    border: 1px solid #ddd; border-radius: 8px; background-color: #fdfdfd;
-    line-height: 1.6;
-  }
-  h1 { text-align: center; color: #2c3e50; }
-  h2 { margin-top: 30px; }
-  p, li { color: #34495e; }
-  hr { border-top: 1px solid #ccc; }
-  code { background-color: #eee; padding: 1px 5px; border-radius: 3px; font-size: 0.95em; }
-  pre {
-    background-color: #2c3e50; color: #ecf0f1;
-    padding: 10px; border-radius: 4px; overflow-x: auto;
-  }
-  pre code { background: none; padding: 0; color: inherit; }
-  img.grafica { max-width: 100%; border: 1px solid #ccc; border-radius: 4px; }
-  .caption { font-size: 0.85em; color: #7f8c8d; text-align: center; margin-top: 6px; }
-  table {
-    width: 100%; border-collapse: collapse; margin: 15px 0;
-    font-size: 0.95em; color: #34495e;
-  }
-  th { background-color: #2c3e50; color: #ecf0f1; padding: 8px; text-align: left; }
-  td { padding: 8px; border-bottom: 1px solid #ddd; }
-  tr:nth-child(even) { background-color: #f4f6f7; }
-  .caja-info {
-    background-color: #f5f5dc; padding: 10px; border-radius: 4px; color: #7f8c8d;
-  }
-  .caja-pendiente {
-    background-color: #fef9e7; border-left: 4px solid #f1c40f;
-    padding: 10px; border-radius: 4px; color: #7f8c8d; margin: 10px 0;
-  }
-  .caja-pendiente strong { color: #b7950b; }
-</style>
-</head>
-<body>
-<div class="card">
+
 
   <h1>📊 Análisis del PIB de México por Sector Económico (1994–2026)</h1>
 
@@ -197,7 +154,3 @@
     <a href="https://www.linkedin.com/in/eduardo-fabian-vidaca-araujo-it-engineer/" style="color:#2980b9;">LinkedIn</a> –
     eduardovidaca2022@gmail.com
   </p>
-
-</div>
-</body>
-</html>
